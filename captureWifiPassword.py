@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-# This program only works for operating systems that are in english or spanish
-# Este programa solo funciona para sistemas operativos que estan en el idioma ingles o español 
+# This program only works for windows operating systems that are in english or spanish
+
+# Este programa solo funciona para sistemas operativos windows que estan en el idioma ingles o español 
 # Antes de usarlo tendra que configurar un cambio en su correo electronico. 
 # Entre a la pagina https://myaccount.google.com/lesssecureapps?pli=1 y presione en el 'boton de encendido y apagado' y asegurese
 # de que este en azul (prendido)
